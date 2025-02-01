@@ -83,7 +83,7 @@ Multiplying both sides by \( n+1 \):
 
 ## 2. You can find a dataset recording a variety of properties of secondary school students in Portugal [here](http://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION). This dataset was collected by P. Cortez and A. Silva, and is hosted by the UC Irvine Machine Learning Repository. There are two datasets; one for students in a math course, and another for students in a Portuguese language course.
 ### (a) Use plots of conditional histograms to investigate whether math students drink more alcohol during the week than Portuguese language students.
-![Stacked Histogram](homework2/conditional-histogram-stacked.png)
+![Stacked Histogram](conditional-histogram-stacked.png)
 ### (b) Use plots of conditional histograms to investigate whether students from small families drink more alcohol at the weekend than those from large families.
 ### (c) Each of the variables school, sex, famsize and romantic has two possible values. This means that if we characterize students by the values of these variables, there are sixteen possible types of student. Use box plots to investigate which of these types drinks more alcohol in total.
 ## 3. You can find a dataset recording some properties of Taiwanese credit card holders [here](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients). This dataset was collected by I-Cheng Yeh, and is hosted by the UC Irvine Machine Learning Repository. There is a variable indicating whether a holder defaulted or not, and a variety of other variables.
