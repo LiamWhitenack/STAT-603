@@ -1,0 +1,2 @@
+{"rule":"COPYRIGHT","sentence":"^\\Q(c) Each of the variables school, sex, famsize and romantic has two possible values.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThis dataset was collected by I-Cheng Yeh, and is hosted by the UC Irvine Machine Learning Repository.\\E$"}

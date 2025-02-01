@@ -1,3 +1,6 @@
 {
-    "workbench.colorTheme": "Noctis Viola"
+    "workbench.colorTheme": "Noctis Viola",
+    "[csv]": {
+        "editor.inlayHints.maximumLength": 0
+    }
 }
